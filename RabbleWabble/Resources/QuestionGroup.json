@@ -1,0 +1,94 @@
+[{
+   "question": [
+        {
+            "ansewr" : "answer what",
+            "hint" : "hint what",
+            "prompt" : "what?"
+
+        },
+        {
+            "ansewr" : "answer why",
+            "hint" : "hint why",
+            "prompt" : "why??" 
+        },
+        {
+            "ansewr" : "answer when",
+            "hint" : "hint when",
+            "prompt" : "when ?"  
+        },
+        {
+            "ansewr" : "answer who",
+            "hint" : "hint who",
+            "prompt" : "who ?"  
+        },
+        {
+            "ansewr" : "answer how",
+            "hint" : "hint how",
+            "prompt" : "how ?"  
+        }
+    ],
+    "title" : "basic question"
+},
+{
+    "question": [
+         {
+             "ansewr" : "answer what IOS",
+             "hint" : "hint what IOS",
+             "prompt" : "what IOS?"
+ 
+         },
+         {
+             "ansewr" : "answer why IOS",
+             "hint" : "hint why IOS",
+             "prompt" : "why IOS?" 
+         },
+         {
+             "ansewr" : "answer when IOS",
+             "hint" : "hint when IOS",
+             "prompt" : "when IOS?"  
+         },
+         {
+             "ansewr" : "answer who IOS",
+             "hint" : "hint who IOS",
+             "prompt" : "who IOS?"  
+         },
+         {
+             "ansewr" : "answer how IOS",
+             "hint" : "hint how IOS",
+             "prompt" : "how IOS ?"  
+         }
+     ],
+     "title" : "IOS question"
+ },
+ {
+    "question": [
+         {
+             "ansewr" : "answer what swift",
+             "hint" : "hint what swift",
+             "prompt" : "what swift?"
+ 
+         },
+         {
+             "ansewr" : "answer why swift",
+             "hint" : "hint why swift",
+             "prompt" : "why swift?" 
+         },
+         {
+             "ansewr" : "answer when swift",
+             "hint" : "hint when swift",
+             "prompt" : "when swift?"  
+         },
+         {
+             "ansewr" : "answer who swift",
+             "hint" : "hint who swift",
+             "prompt" : "who swift?"  
+         },
+         {
+             "ansewr" : "answer how swift",
+             "hint" : "hint how swift",
+             "prompt" : "how swift ?"  
+         }
+     ],
+     "title" : "Swift question"
+ }
+]
